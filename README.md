@@ -15,5 +15,4 @@ needs to actually run.
 
 **Currently**
 
-- [exo-arm](https://github.com/VK12034/exo-arm) - a two-DoF powered exoskeleton
-  arm: mechanical design, Teensy firmware and the control stack that runs it
+- [exo-arm](https://github.com/VK12034/exo-arm) - apPowered elbow exoskeleton: small NEMA 23 stepper through a 30:1 worm and 2:1 chain, Arduino firmware, Fusion CAD and build docs.
