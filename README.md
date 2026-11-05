@@ -35,10 +35,3 @@ needs to actually run.
 - [exo-arm](https://github.com/VK12034/exo-arm) - powered elbow exoskeleton: small
   NEMA 23 stepper through a 30:1 worm and 2:1 chain, Arduino firmware, Fusion CAD
   and build docs.
-
-**Elsewhere**
-
-- Cumming, GA
-<!-- Add your LinkedIn here once you want it public:
-- [LinkedIn](https://www.linkedin.com/in/your-handle)
--->
