@@ -20,7 +20,6 @@ needs to actually run.
 
 - 1st place, InnovateATL 2026 - [TowFit](https://github.com/kumarishabh897-gif/TowFit-InnovateATL), where I did the CAD
 - Industrial Design Award, FRC 6829 - 2025 and 2026
-- Research assistant, Tufts IDEA Lab
 
 **Working with**
 
